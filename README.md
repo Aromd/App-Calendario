@@ -6,7 +6,7 @@ Utilizando:
 
 ## Frontend: 
 
-Reactjs - Redux - sweetalert - react-big-calendar
+Reactjs - Redux
 
 ## Backend:
 
